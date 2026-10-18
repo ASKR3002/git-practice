@@ -6,5 +6,7 @@ I am practicing Git Commands.
 
 Learning git step by step.
 
-this is my first feature branch.
+This is my first feature branch.
+
+Today I learned how to push code to GitHub.
 
